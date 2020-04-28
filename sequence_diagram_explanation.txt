@@ -1,0 +1,5 @@
+Sequence Diagram
+
+It show a timeline of events that might occur while a customer is using an e-commerce application. 
+Series of events starts with customer choosing products. Once the customer has chosen products, next event in the timeline will be to place order. 
+The application condfirms order details from the customer and takes him/her to payement gateway.

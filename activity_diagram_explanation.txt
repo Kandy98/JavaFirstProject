@@ -1,0 +1,3 @@
+Activity Diagram
+
+Activity start with user looking for prodcuts on the application. User adds suitable items to the cart. Once the required items are put in the cart, application checks if the user is signed in or not. Once the user signs in the application proceeds to checkout.

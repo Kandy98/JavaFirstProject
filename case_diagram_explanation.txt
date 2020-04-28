@@ -1,0 +1,4 @@
+Case Diagram
+
+It depicts the main actors in the application which are customer and server.
+The diagram also show tasks generally performed by a customer which are creating account and placing orders.

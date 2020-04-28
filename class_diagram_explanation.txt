@@ -1,0 +1,5 @@
+Class Diagram
+
+It portrays the key entities in a offline shopping application which are customer, order, stock and product. 
+
+It also show the various associations between the entities, like, a customer can have more than one order.
