@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+  <bean id="emp1" class="model.Employee">
+  	<property name="id" value="1"> </property>
+  	<property name="name" value="kandarp verma"> </property>
+  	<property name="city" value="delhi"> </property>
+  </bean>
+  
+  <bean id="emp2" class="model.Employee">
+  	<property name="id" value="2"> </property>
+  	<property name="name" value="satish jain"> </property>
+  	<property name="city" value="gurugram"> </property>
+  </bean>
+  
+  <bean id="emp3" class="model.Employee">
+  	<property name="id" value="3"> </property>
+  	<property name="name" value="yogesh agarwal"> </property>
+  	<property name="city" value="delhi"> </property>
+  </bean>
+  
+  <bean id="emp4" class="model.Employee">
+  	<property name="id" value="4"> </property>
+  	<property name="name" value="sahil kumar"> </property>
+  	<property name="city" value="bangalore"> </property>
+  </bean>
+  
+  <bean id="emp5" class="model.Employee">
+  	<property name="id" value="0"> </property>
+  	<property name="name" value="hitesh gautam"> </property>
+  	<property name="city" value="pune"> </property>
+  </bean>
+
+</beans>
